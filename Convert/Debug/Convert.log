@@ -1,0 +1,6 @@
+﻿  Convert.cpp
+E:\C++\Convert\Convert.cpp(48,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\Convert\Convert.cpp(54,56): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\Convert\Convert.cpp(69,16): warning C4018: <: несоответствие типов со знаком и без знака
+E:\C++\Convert\Convert.cpp(82,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Convert.vcxproj -> E:\C++\Convert\Debug\Convert.exe

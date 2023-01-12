@@ -1,0 +1,2 @@
+E:\C++\Convert\Debug\Convert.exe
+E:\C++\Convert\Debug\Convert.pdb
